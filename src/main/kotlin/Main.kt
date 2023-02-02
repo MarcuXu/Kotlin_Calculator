@@ -16,7 +16,7 @@ fun main(args: Array<String>) {
     println(c1.brand)   // Outputs Ford
     println(c1.model)   // Outputs Mustang
     println(c1.year)    // Outputs 1969
-    println("Hello World!")
+//    println("Hello World!")
     // https://blog.csdn.net/qq_14876133/article/details/122363150
     val calculator = Calculator()
     calculator.start()
